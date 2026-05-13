@@ -1,0 +1,7 @@
+CRITICAL EVACUATE LIST
+======================
+General_Hospital (Distance: 41.01km)
+North_High_School (Distance: 32.25km)
+City_Power_Grid (Distance: 27.51km)
+Downtown_Library (Distance: 48.66km)
+Water_Treatment_Plant (Distance: 25.61km)

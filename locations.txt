@@ -1,0 +1,5 @@
+General_Hospital,12,15
+North_High_School,45,60
+City_Power_Grid,22,30
+Downtown_Library,5,8
+Water_Treatment_Plant,33,40
